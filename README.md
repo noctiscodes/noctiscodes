@@ -6,7 +6,7 @@
 
 ## About Me
 
-A highly resourceful skilled developer with solid academic achievements and technical experience. Adept at learning quickly and being a valuable asset. This is my project space showcasing some of the work i've done `:blush:` 🤓
+A highly resourceful skilled developer with solid academic achievements and technical experience. Adept at learning quickly and being a valuable asset. This is my project space showcasing some of the work i've done 🤓
 
 <details>
   <summary>Miscaellanous Facts</summary>
@@ -16,6 +16,8 @@ A highly resourceful skilled developer with solid academic achievements and tech
 - In terms of hobbies I love **Dancing, Reading, Playing Games and Engaging In Sports** :)
 
 - Recent Games I've been playing **Overwatch 2, Lethal Company**
+
+- Love watching **Tv series, Anime, K-dramas and Movies**
 
 - 👨‍💻 Employed
 
