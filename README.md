@@ -40,8 +40,9 @@ A highly resourceful skilled developer with solid academic achievements and tech
 </div>
 
 ## Github Analytics
-[![Noctis Codes's GitHub stats](https://github-readme-stats.vercel.app/api?username=noctiscodes&show_icons=true&theme=gotham&hide_rank=true)](https://github.com/noctiscodes/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=noctiscodes&theme=gotham)](https://github.com/noctiscodes/github-readme-stats)
+[![Noctis Codes's GitHub stats](https://github-readme-stats-noctis-codes-projects.vercel.app/api?username=noctiscodes&show_icons=true&theme=gotham&hide_rank=true)](https://github.com/noctiscodes/github-readme-stats)
+[![Top Langs](https://github-readme-stats-noctis-codes-projects.vercel.app/api/top-langs/?username=noctiscodes&layout=compact&theme=gotham)](https://github.com/anuraghazra/github-readme-stats)
+
 
 
 
